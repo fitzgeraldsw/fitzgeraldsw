@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fitzgeraldsw
-- 👀 I’m interested in Kubernetes, Golang, Docker, Prometheus, and other related k8s technologies
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on k8s
+- 👀 I’m interested in Java, Angular, JavaScript, TypeScript, bash, and Kubernetes
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Angular
 - 📫 How to reach me: fitzgeraldsw@gmail.com
 
 <!---
